@@ -14,7 +14,7 @@ Com base no vídeo de lançamento do iPhone de 2007 (link abaixo), você deve el
 
 # Código
 
-![Código do projeto](src/Iphone.java)
+[Código do projeto](src/Iphone.java)
 
 # DIAGRAMA UML CRIADO (DRAW.IO)
 
